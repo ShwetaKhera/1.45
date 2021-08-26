@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- English -->
+  <head>
+    <title>1.45 - Apply Now!</title>
+    <link rel="stylesheet" href="club.css" />
+  </head>
+
+  <body>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="clubActivities.html">Activities</a></li>
+        <li><a href="login.html">Login</a></li>
+        <li class="active"><a href="membership.html">Membership</a></li>
+      </ul>
+    </nav>
+    <main class="membership">
+      <p>Nothing to do this weekend? Join our club!</p>
+      <h2>APPLY NOW!</h2>
+      <form>
+        <label>Name: </label>
+        <input id="name" minlength="3" maxlength="10" required />
+
+        <label>Email: </label>
+        <input id="email" type="email" minlength="6" maxlength="30" required />
+
+        <label>Password: </label>
+        <input
+          id="password"
+          type="password"
+          minlength="6"
+          maxlength="15"
+          required
+        />
+
+        <label>Area: </label>
+        <select name="area" id="area" required>
+          <option value="Palo Alto">Palo Alto</option>
+          <option value="Mountain View">Mountain View</option>
+          <option value="Redwood City">Redwood City</option>
+          <option value="Santa Clara">Santa Clara</option>
+        </select>
+
+        <p></p>
+        <button id="signup" type="button" onclick="toggleThanksDialog()">
+          Sign Up
+        </button>
+      </form>
+
+      <section id="ThanksDialog">
+        <div id="dialogData">
+          <h2>Thanks for Signing Up</h2>
+          <p id="data"></p>
+          <button id="closeDialog" type="button" onclick="toggleThanksDialog()">
+            Close
+          </button>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2020 1.45 - Silicon Valley Movie Marathon Club</p>
+    </footer>
+
+    <script>
+      function toggleThanksDialog() {
+        document.getElementById('data').innerHTML =
+          'Your name: ' +
+          document.getElementById('name').value +
+          ', email: ' +
+          document.getElementById('email').value +
+          ', area: ' +
+          document.getElementById('area').value;
+
+        var dialog = document.getElementById('ThanksDialog');
+        dialog.classList.toggle('show');
+      }
+    </script>
+  </body>
+</html>

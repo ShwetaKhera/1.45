@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- English -->
+  <head>
+    <title>1.45 - Movie Marathon Club</title>
+    <link rel="stylesheet" href="club.css" />
+  </head>
+
+  <body>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="clubActivities.html">Activities</a></li>
+        <li class="active"><a href="login.html">Login</a></li>
+        <li><a href="membership.html">Membership</a></li>
+      </ul>
+    </nav>
+    <main>
+      <header>
+        <h1>1.45 - Login Page</h1>
+      </header>
+
+      <form>
+        <label>Email</label>
+        <input type="email" />
+
+        <label>Password</label>
+        <input type="password" />
+
+        <button type="button">Login</button>
+      </form>
+
+      <section id="svgDoodle">
+        <h2>Doodle Fun!</h2>
+        <button type="button" id="add" onclick="addCircle()">Add</button>
+        <button type="button" id="clear" onclick="clearCanvas()">Clear</button>
+        <br />
+        <svg id="target"></svg>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2020 1.45 - Silicon Valley Movie Marathon Club</p>
+    </footer>
+
+    <script>
+      function addCircle() {
+        var canvas = document.getElementById('target');
+        var x = Math.floor(Math.random(10, canvas.clientWidth) * 700);
+        var y = Math.floor(Math.random(10, canvas.clientHeight) * 300);
+        var r = Math.floor(Math.random(10, 50) * 100);
+
+        var newP = document.createElementNS(
+          'http://www.w3.org/2000/svg',
+          'circle'
+        );
+        newP.setAttribute('cx', x);
+        newP.setAttribute('cy', y);
+        newP.setAttribute('r', r);
+        newP.setAttribute('stroke', getRandomColor());
+        newP.setAttribute('stroke-width', Math.floor(Math.random(1, 10) * 10));
+        newP.setAttribute('fill', getRandomColor());
+        newP.style.animation = 'grow 2s linear infinite alternate';
+        canvas.appendChild(newP);
+      }
+      function getRandomColor() {
+        var letters = '0123456789ABCDEF';
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+          color = color + letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+      }
+      function clearCanvas() {
+        document.getElementById('target').innerHTML = '';
+      }
+    </script>
+  </body>
+</html>
