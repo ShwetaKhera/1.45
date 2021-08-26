@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://www.drbsclasses.org/student49/node/info/example1.schema.json",
+    "title": "Applicant Data Schema",
+    "description": "A Schema that requires a JSON object",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 50
+        },
+        "email": {
+            "type": "string",
+            "minLength": 5,
+            "format": "email"
+        },
+        "area": {
+            "type": "string",
+            "enum": ["Palo Alto","Mountain View","Redwood City","Santa Clara"]
+        },
+        "password": {
+            "type": "string",
+            "minLength":6
+        }
+    },
+    "required": ["name", "email","area", "password"],
+    "additionalProperties": false
+  }
+  

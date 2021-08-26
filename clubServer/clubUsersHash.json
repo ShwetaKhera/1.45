@@ -1,0 +1,322 @@
+[
+  {
+    "firstName": "Melia",
+    "lastName": "Barker",
+    "email": "tirrivees1820@outlook.com",
+    "password": "49OqspUq",
+    "role": "admin",
+    "hashedPassword": "$2a$10$CTNRdrFwmghuyZI639uHkeSV/cVyEl7Ux93Sj7Z2S9DyrB7zuxAgK"
+  },
+  {
+    "firstName": "Demetrice",
+    "lastName": "Parker",
+    "email": "chihuahua1899@gmail.com",
+    "password": "'E`Gj3iJ",
+    "role": "member",
+    "hashedPassword": "$2a$10$CAF7SrVMM8ZCoD0dE5fjz.EIZeNwDC1/u3N/C3xq9unkbBYoWzgcu"
+  },
+  {
+    "firstName": "Ligia",
+    "lastName": "Hudson",
+    "email": "umbrate1989@yahoo.com",
+    "password": "n3pLS4|=",
+    "role": "member",
+    "hashedPassword": "$2a$10$ot/rL8258MIXBZ77tXTbK.mMn6YLZ94.rWdYVd1cdBXkBJdovxgQa"
+  },
+  {
+    "firstName": "Maisha",
+    "lastName": "Hickman",
+    "email": "bibiri1807@yandex.com",
+    "password": "j4?5sshQ",
+    "role": "member",
+    "hashedPassword": "$2a$10$XP3YCFteOhy.o1kTH2jV4ONPZsum9Z/QifuliA2ARAflB1RIQbdsi"
+  },
+  {
+    "firstName": "Cythia",
+    "lastName": "Park",
+    "email": "biune1929@gmail.com",
+    "password": "OJ;eGI;l",
+    "role": "member",
+    "hashedPassword": "$2a$10$lslwWN7pDoD6yVGUGAfw5u6LEZ6S9puLwZENa/jEBeDeDMr0czxa2"
+  },
+  {
+    "firstName": "Arlie",
+    "lastName": "Holt",
+    "email": "aromatised1858@yandex.com",
+    "password": "%\\2o<v/n",
+    "role": "member",
+    "hashedPassword": "$2a$10$mMBz532zCq8P30ZoM3PwvOeNoQkEPEDHzJ2Ue4dbZgL7r2964Bpl."
+  },
+  {
+    "firstName": "Andy",
+    "lastName": "Morton",
+    "email": "bayesian1899@outlook.com",
+    "password": ".zID>]HY",
+    "role": "member",
+    "hashedPassword": "$2a$10$BgfCyW7zeleqUWir1Xx.2edgBgEj7w/6KyrbgcC6c4a6Ym.JJ87A2"
+  },
+  {
+    "firstName": "Peg",
+    "lastName": "Gardner",
+    "email": "earrings1987@yandex.com",
+    "password": "X'jE6G|@",
+    "role": "member",
+    "hashedPassword": "$2a$10$qQettP0bsTm8cRgAZuFLGu7yzfyu3VKQfA0wI1Z1KiWK0OWyFUBQ2"
+  },
+  {
+    "firstName": "Noble",
+    "lastName": "Wilder",
+    "email": "facer1912@yandex.com",
+    "password": "6^i\\W/^i",
+    "role": "member",
+    "hashedPassword": "$2a$10$12IHLMWY/MMabaxnCPUDJ.FjxEZx7q13m9RdpGPsTQyqqmCqMg7dy"
+  },
+  {
+    "firstName": "Willow",
+    "lastName": "Trevino",
+    "email": "nodes1883@yahoo.com",
+    "password": "t/s6rUHN",
+    "role": "member",
+    "hashedPassword": "$2a$10$6mRDrKmucvd7jlvA8alRkus7u1ILvycD4//UxRB6jDCUWYLaZJp8S"
+  },
+  {
+    "firstName": "Corrinne",
+    "lastName": "Curtis",
+    "email": "boisset1829@live.com",
+    "password": "dnRZ_.zR",
+    "role": "member",
+    "hashedPassword": "$2a$10$rV61K9CR1qDmUUwobpl0M.OQh3EYrReIrWZPd0oE7Ki7lJswmA.zi"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Brock",
+    "email": "utilizer1910@live.com",
+    "password": "BomQV/^m",
+    "role": "member",
+    "hashedPassword": "$2a$10$xgFmF/uofeBwzXZXORIYCO03.8spqpJkShGHzByRgCD4mTCXmGnna"
+  },
+  {
+    "firstName": "Daron",
+    "lastName": "Stevens",
+    "email": "pedocalcic1982@outlook.com",
+    "password": "EJ%3er4x",
+    "role": "member",
+    "hashedPassword": "$2a$10$rx3ZLLoVjx.J4tMhTnP8u.syWysVW21B.a3LhnPdcJ./5gc4zYxke"
+  },
+  {
+    "firstName": "Anamaria",
+    "lastName": "Grant",
+    "email": "downtown1843@live.com",
+    "password": "iNT\\NZsY",
+    "role": "member",
+    "hashedPassword": "$2a$10$9iDCvVHVY0E3Yz.sAmYZiuUjXTGXFm28p5D8Wp.f7NtzfxVkhF0sG"
+  },
+  {
+    "firstName": "Leonard",
+    "lastName": "Shepherd",
+    "email": "thrower1972@yahoo.com",
+    "password": "]:_272-,",
+    "role": "member",
+    "hashedPassword": "$2a$10$VpJ8ml.cvaZG4H9GYJyoU.EwRvi6oS5N7Dz9EYVshCJ5urtkLl7D6"
+  },
+  {
+    "firstName": "Belia",
+    "lastName": "Monroe",
+    "email": "cranky1882@gmail.com",
+    "password": "?yUE0E{s",
+    "role": "member",
+    "hashedPassword": "$2a$10$R9tllXxiFFDY3/S9u81sp./7AkAYF6bhMo4bF29epsTpOO.EnX97S"
+  },
+  {
+    "firstName": "Stacey",
+    "lastName": "Calderon",
+    "email": "marsileaceae1910@gmail.com",
+    "password": "}I=HpnL$",
+    "role": "member",
+    "hashedPassword": "$2a$10$ZZ6Y1PcHbGt0l7KR6NEq0.4Obs0VfsPdIxqBvfy7WPL7zCcGsaMk2"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Fitzgerald",
+    "email": "burin1898@yahoo.com",
+    "password": "7X@4m3Kp",
+    "role": "member",
+    "hashedPassword": "$2a$10$hE6Suio5nxZNr6.kI.75A.tKQmWc9gYuVd5D8XMQpkbonEgYqs2G."
+  },
+  {
+    "firstName": "Albertina",
+    "lastName": "Mclaughlin",
+    "email": "drainpipe2041@yandex.com",
+    "password": "Jj$L-({m",
+    "role": "member",
+    "hashedPassword": "$2a$10$YMlZbKDygL4jkb2F.A8SXOweCSPG2.ICDcnsDCJ0PSlnfhPklXS62"
+  },
+  {
+    "firstName": "Marg",
+    "lastName": "Carney",
+    "email": "ventages2031@yahoo.com",
+    "password": "[aMX~8F<",
+    "role": "member",
+    "hashedPassword": "$2a$10$w0N4WbG8ny9yxe60N4MtqeEbqjPzuw2ry7KfBwU/zlvfderF4OdDy"
+  },
+  {
+    "firstName": "Jeffery",
+    "lastName": "Charles",
+    "email": "zaffer1889@live.com",
+    "password": "=Jip:Xcu",
+    "role": "member",
+    "hashedPassword": "$2a$10$5Pk8WfNYeLMKInbJTrfg6u5CL7R54y0Zn.SaMK3GOViDRN5pRMKGC"
+  },
+  {
+    "firstName": "Annett",
+    "lastName": "Parsons",
+    "email": "kurikata1944@yandex.com",
+    "password": "=d&\"g>il",
+    "role": "member",
+    "hashedPassword": "$2a$10$vwUXSN.vBob7zgkLJgvo1eSv0wzb6mevX1GL9NAjxEsYmbbIIisuC"
+  },
+  {
+    "firstName": "Wilson",
+    "lastName": "Sharpe",
+    "email": "misunderstandable1916@live.com",
+    "password": "{<v!=iOt",
+    "role": "member",
+    "hashedPassword": "$2a$10$oJ.HY2fyZqTd2WOAbQxalOMI3RboM8e7RAABz4tETQOj3Qjmq5eLi"
+  },
+  {
+    "firstName": "Gertude",
+    "lastName": "Ewing",
+    "email": "althein1801@yahoo.com",
+    "password": "/j-9jcR,",
+    "role": "member",
+    "hashedPassword": "$2a$10$B47dl5hUkyQCJ5ZPfc1KA.9Jn5Cx2jHMJoxt.gmg43JTb1nm37Geq"
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Knowles",
+    "email": "piscators1880@live.com",
+    "password": "&)TBMdaA",
+    "role": "member",
+    "hashedPassword": "$2a$10$94YqVKPhaKrJuvRGs8RHe.AlyOevlD65zjuXOJPRZ/AImvPSYdWMq"
+  },
+  {
+    "firstName": "Catherina",
+    "lastName": "Castillo",
+    "email": "saltworker1892@live.com",
+    "password": "IS?R';1K",
+    "role": "member",
+    "hashedPassword": "$2a$10$4ELVTCUmCrtqcYBM6fwjnOQ6bla.alLRTujyBd06P8CQ.W43BFEey"
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Kennedy",
+    "email": "speer2026@outlook.com",
+    "password": "LM^7hO)Q",
+    "role": "member",
+    "hashedPassword": "$2a$10$6qXrPu79QcmxnOkll9Gqruc.PVkIV8DnvUaD4jUbQacbiUSvsR5X2"
+  },
+  {
+    "firstName": "Tula",
+    "lastName": "Stafford",
+    "email": "devoir1853@live.com",
+    "password": "rt^FZOJR",
+    "role": "member",
+    "hashedPassword": "$2a$10$F2x210oC5jnWVKckon29TOAREYi3aAwjxy5NkcZJ0FLciiWnB9JdC"
+  },
+  {
+    "firstName": "Rachell",
+    "lastName": "Harding",
+    "email": "article1896@outlook.com",
+    "password": ">^0OXM\\L",
+    "role": "member",
+    "hashedPassword": "$2a$10$Jd09RlZyB9tT88mAMFXv8ervAf7fug5t9B26phVzGdehYDf6YNmpK"
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Monroe",
+    "email": "article1821@live.com",
+    "password": "+e_<d4)A",
+    "role": "member",
+    "hashedPassword": "$2a$10$Uogqc/uaTGHW3XKNxnIIkuoCPIjfYVD0YVXDCrfXN3VmsEkTYEciG"
+  },
+  {
+    "firstName": "Micha",
+    "lastName": "Sanders",
+    "email": "fewer1818@outlook.com",
+    "password": "o8I0|UeR",
+    "role": "member",
+    "hashedPassword": "$2a$10$J7ivJx2lC0W.F.u60pIC9epwkcQcX65b6RP4T33M2I/cGc.M9gmO2"
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Gray",
+    "email": "occults1985@yandex.com",
+    "password": ",^h$ndMY",
+    "role": "member",
+    "hashedPassword": "$2a$10$7UGFJ/zRHH/Pw1n8PrYtZ.MiKjdpespIB2GM7X5mkakmYRKq2uo1S"
+  },
+  {
+    "firstName": "Karren",
+    "lastName": "Crosby",
+    "email": "harborers2000@live.com",
+    "password": "~*l;45n[",
+    "role": "member",
+    "hashedPassword": "$2a$10$1xBUYH2e8VasLzKAQmeP3uPkH5/HWSCZCfBFI/YAPJKxlp2ELxgFO"
+  },
+  {
+    "firstName": "Faustino",
+    "lastName": "Morris",
+    "email": "bayard1928@outlook.com",
+    "password": "q6;7-O+j",
+    "role": "member",
+    "hashedPassword": "$2a$10$crbl8HiX4NtfEl9bijG5bemyCUAAvYXBAjgUstC5H/tfmUeems2hi"
+  },
+  {
+    "firstName": "Claretta",
+    "lastName": "Cummings",
+    "email": "fish2004@gmail.com",
+    "password": "Cm-aVp6Z",
+    "role": "member",
+    "hashedPassword": "$2a$10$vo4j8.BfPmewwRJIpKSdtuUwo1CrGGrW5O0dZljhU23SHOxdupONi"
+  },
+  {
+    "firstName": "Carmen",
+    "lastName": "Phillips",
+    "email": "geometry1853@live.com",
+    "password": "j$Ys=3qK",
+    "role": "member",
+    "hashedPassword": "$2a$10$jwXMqzGBBfaJFPBydVkose0tf9OtR70NgDyG5E5P7axj25liW.z4G"
+  },
+  {
+    "firstName": "Pamula",
+    "lastName": "Holt",
+    "email": "amperage1914@yandex.com",
+    "password": "4IrjUz5h",
+    "role": "member",
+    "hashedPassword": "$2a$10$9TTmAT5w92v14acGBWdon.cD3tKGQmL5O6/XhgidGxStIwdrgJtVW"
+  },
+  {
+    "firstName": "Truman",
+    "lastName": "Boyd",
+    "email": "dustman2024@live.com",
+    "password": "K{Zr42Z%",
+    "role": "member",
+    "hashedPassword": "$2a$10$IBts3ydtj6z4uKtPvpaYW.V73LJZlFePjtSgAInJpaqzYt0ETEVLS"
+  },
+  {
+    "firstName": "Alphonso",
+    "lastName": "Salazar",
+    "email": "raddle2043@yandex.com",
+    "password": "q*P!JBf#",
+    "role": "member",
+    "hashedPassword": "$2a$10$ZWBs8qVOy2QF.PrZhAkhDOv56YkRSQV.CFpJAp1v7N9doSgFe2yW."
+  },
+  {
+    "firstName": "Isidra",
+    "lastName": "O'neal",
+    "email": "antonin2059@yahoo.com",
+    "password": "[gbPmf`;",
+    "role": "member",
+    "hashedPassword": "$2a$10$jBODFOz1.E6AWG8norYG4.VQ2Q0g5F9aBC2iotUMuv1YWAhxqYWku"
+  }
+]

@@ -1,0 +1,36 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://www.drbsclasses.org/student49/node/info/example1.schema.json",
+    "title": "Member Data Schema",
+    "description": "A Schema that requires a JSON object",
+    "type": "object",
+    "properties": {
+        "firstName": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 20
+        },
+        "lastName": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 20
+        },
+        "email": {
+            "type": "string",
+            "minLength": 5,
+            "format": "email"
+        },
+        "role": {
+            "type": "string",
+            "enum": ["admin","member","guest"]
+        },
+        "hashedPassword": {
+            "type": "string",
+            "minLength":60,
+            "maxLength": 60
+        }
+    },
+    "required": ["firstName", "email","lastName", "role", "hashedPassword"],
+    "additionalProperties": false
+  }
+  
