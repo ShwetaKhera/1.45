@@ -20,7 +20,7 @@ const clubUsersDB = new DataStore({
 
 // Deployment
 // let activities = require('../clubReact/eventData.json');
-let port = 3049;
+let port = process.env.PORT || 3049;
 
 // Local
 let activities = require('./eventData.json');
