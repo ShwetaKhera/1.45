@@ -6,6 +6,8 @@ This is a full-stack web application for managing a movie marathon club. It allo
 - **Backend:** Node.js/Express API in [`clubServer`](clubServer)
 - **Static Site:** Simple HTML/CSS/JS version in [`clubProject`](clubProject)
 
+**Demo**: https://one-45-backend.onrender.com/
+
 ---
 
 ## Features
